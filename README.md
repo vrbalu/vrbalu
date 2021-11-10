@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Lukas 👋</h1>
 <h3 align="center">A passionate Golang developer from the Czech Republic</h3>
 
-- 🔭 I’m currently working as a software developer by BOSCH.
+- 🔭 I’m currently working as a software developer at BOSCH.
 
 - 🌱 I’m currently improving my **Golang, Python and Angluar** skills
 
