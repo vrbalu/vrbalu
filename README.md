@@ -24,25 +24,25 @@
 
 <p align="center"> 
   <a href="https://www.golang.org" target="_blank"> 
-    <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="golang" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="golang" width="90" height="40"/> 
   </a> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://mti.com/wp-content/uploads/2021/04/Amazon-Web-Services-Logo-White.png" alt="aws" width="45" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png" alt="docker" width="40" height="40"/> 
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Docker-Logo-White-RGB_Vertical.png)" alt="docker" width="40" height="40"/> 
   </a> 
    <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/1200px-OpenShift-LogoType.svg.png" alt="openshift" width="40" height="40"/> 
   </a> 
   <a href="https://kafka.apache.org/" target="_blank"> 
-    <img src="https://rubix.nl/wp-content/uploads/2016/09/kafka-logo-wide.png" alt="kafka" width="40" height="40"/> 
+    <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_178,h_287/https://assets.ubuntu.com/v1/ce971717-Kafka-logo-badge-white.svg" alt="kafka" width="25" height="40"/> 
   </a> 
   
   
