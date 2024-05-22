@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Lukas 👋</h1>
 <h3 align="center">A passionate Golang developer from the Czech Republic</h3>
 
-- 🔭 I’m currently working as a software developer at GoCaspi GmbH.
+- 🔭 I’m currently working as a software developer at Lufthansa Industry Solutions GmbH.
 
 - 🌱 I’m currently improving my **Golang, Python and Angluar** skills
 
@@ -15,7 +15,6 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://cz.linkedin.com/in/lukáš-vrba-00026512a)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vrba_lu/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrbalukasek@gmail.com)
   
 </div>
